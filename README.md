@@ -12,7 +12,7 @@ I currently work at **Lafarge**, where I help optimize logistics operations, enh
 * 🔭 Working on: A **subscription-based learning platform** and **Uber-style ride-hailing system**
 * ⚙️ Stack: **Python (Flask/FastAPI)**, **Flutter**, **React**, **PostgreSQL/MySQL**, **Docker**, **Render**, **OneSignal**
 * 🌍 Based in **Nigeria**
-* 📫 Reach me at **samsonemmanuel.vercel.app** or on [LinkedIn](https://linkedin.com/in/samsonemmanuel)
+* 📫 Reach me at **samsonemmanuel.vercel.app** or on [LinkedIn](https://linkedin.com/in/samson-emmanuel-0a18111a7/)
 * ⚡ Fun fact: I started out in **Chemistry** before transitioning into tech — now I automate everything I can!
 
 ---
