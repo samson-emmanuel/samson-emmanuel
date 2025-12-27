@@ -46,7 +46,7 @@ A subscription-based learning web app built with Flask and React, featuring exam
 
 * **Portfolio:** [samsonemmanuel.vercel.app](https://samsonemmanuel.vercel.app)
 * **LinkedIn:** [linkedin.com/in/samsonemmanuel](https://linkedin.com/in/samsonemmanuel)
-* **Twitter:** [@SamsonEmmanu3l](https://x.com/officialsamemma)
+* **Twitter:** [@officialsamemma(https://x.com/officialsamemma)
 
 ---
 
