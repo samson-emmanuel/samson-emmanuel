@@ -40,17 +40,13 @@ A logistics-focused Flutter app that enhances safety, trip tracking, and communi
 
 A subscription-based learning web app built with Flask and React, featuring exam history tracking, timed tests, and payment integration via Flutterwave.
 
-### [RideNow 🚗](https://github.com/yourusername/ridenow)
-
-An Uber-like ride-hailing system where drivers subscribe monthly instead of paying commissions. Built using Flutter and FastAPI.
-
 ---
 
 ## 🌐 Connect With Me
 
 * **Portfolio:** [samsonemmanuel.vercel.app](https://samsonemmanuel.vercel.app)
 * **LinkedIn:** [linkedin.com/in/samsonemmanuel](https://linkedin.com/in/samsonemmanuel)
-* **Twitter:** [@SamsonEmmanu3l](https://twitter.com/SamsonEmmanu3l)
+* **Twitter:** [@SamsonEmmanu3l](https://x.com/officialsamemma)
 
 ---
 
